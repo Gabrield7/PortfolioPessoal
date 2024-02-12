@@ -1,5 +1,5 @@
 <img src="./assets/Front-end-Meu primeiro protfolio pessoal.png">
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
+<img src="https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui">
 
 # Meu primeiro site
 
